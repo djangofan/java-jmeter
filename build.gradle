@@ -1,0 +1,17 @@
+apply plugin: 'java'
+
+repositories {
+    jcenter()
+}
+
+dependencies {
+    compile 'org.slf4j:slf4j-api:1.7.13'
+    compile 'org.apache.jmeter:ApacheJMeter_core:2.13'
+    compile 'org.apache.jmeter:ApacheJMeter_http:2.13'
+    compile 'org.apache.jmeter:ApacheJMeter_components:2.13'
+    compile 'org.apache.jmeter:ApacheJMeter_tcp:2.13'
+    compile 'org.apache.jmeter:ApacheJMeter:2.13'
+    compile 'org.testng:testng:6.9.10'
+}
+
+test.useTestNG()

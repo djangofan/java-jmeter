@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: org.htmlparser:htmllexer:2.1">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.htmlparser/htmllexer/2.1/2ebf2c073e649b7e674cddd0558ff102a486402f/htmllexer-2.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.htmlparser/htmllexer/2.1/4053d36b5890ddc2f49a873e85b97b93f784ef76/htmllexer-2.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

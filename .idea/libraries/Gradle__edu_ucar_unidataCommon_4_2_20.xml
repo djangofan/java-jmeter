@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: edu.ucar:unidataCommon:4.2.20">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/edu.ucar/unidataCommon/4.2.20/e93e551d738e9f4d1aaecc4ef14beaef42822566/unidataCommon-4.2.20.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/edu.ucar/unidataCommon/4.2.20/451c4000531f58faf4c5917219a2e0585594f774/unidataCommon-4.2.20-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

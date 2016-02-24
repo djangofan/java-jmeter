@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: edu.ucar:netcdf:4.2.20">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/edu.ucar/netcdf/4.2.20/d2f3401f108dc54073042c57c5304cccc7a1c6de/netcdf-4.2.20.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/edu.ucar/netcdf/4.2.20/1a8b622d6e3bb5f7348eb35f898abe5e5619100e/netcdf-4.2.20-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
